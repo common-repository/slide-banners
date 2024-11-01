@@ -1,0 +1,657 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-10 16:01+0200\n"
+"PO-Revision-Date: 2016-02-10 16:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: slidebanner.php:33
+msgid "Buy Full Version"
+msgstr "Tam sürümü satın al"
+
+#: slideoptions.php:439
+msgid "Slide Banners"
+msgstr "Slayt Afişler"
+
+#: slideoptions.php:440
+msgid "Add New Slidebanner"
+msgstr "Yeni Popover penceresi Ekle"
+
+#: slideoptions.php:441
+msgid "Daily Stats"
+msgstr "günlük İstatistikler"
+
+#: slideoptions.php:706
+msgid "Melodic Media Slide Banner"
+msgstr "Melodic Media Push Down Banner"
+
+#: slideoptions.php:708
+msgid "My Slide Banners Daily Stats"
+msgstr "Afiş Günlük İstatistikleri Push Down listem"
+
+#: slideoptions.php:715
+msgid "Slide Banner"
+msgstr "Slayt Afişler"
+
+#: slideoptions.php:715 slideoptions.php:780 slideoptions.php:853
+msgid "Banner Name"
+msgstr "Banner Ad"
+
+#: slideoptions.php:715
+msgid "Imp. today"
+msgstr "gösterimler bugün"
+
+#: slideoptions.php:715
+msgid "Opens today"
+msgstr "bugün açar"
+
+#: slideoptions.php:715
+msgid "Clicks today"
+msgstr "Tıklama bugün"
+
+#: slideoptions.php:720
+msgid "You have currently no slide banners."
+msgstr "Şu anda hiçbir itme aşağı afiş var."
+
+#: slideoptions.php:725 slideoptions.php:795
+msgid "Free version includes"
+msgstr "Ücretsiz sürümünü içerir"
+
+#: slideoptions.php:726 slideoptions.php:796
+msgid "1. Save and view daily stats for 1 banner."
+msgstr "1. Kaydet ve 1 banner günlük istatistikleri görüntüleyebilir ."
+
+#: slideoptions.php:727 slideoptions.php:797
+msgid "2. Only \"Top-Right\" sliding direction option."
+msgstr "2. Sadece \"Üst-Sağ \" yön seçeneği sürgülü."
+
+#: slideoptions.php:729 slideoptions.php:799
+msgid "Full version includes"
+msgstr "Tam sürüm içerir"
+
+#: slideoptions.php:730 slideoptions.php:800
+msgid "1. Save and view daily, weekly and monthly stats for unlimited banners."
+msgstr ""
+"1. Kaydet ve günlük görünümü, sınırsız afiş için haftalık ve aylık "
+"istatistikler."
+
+#: slideoptions.php:731 slideoptions.php:801
+msgid "2. Slide from any direction."
+msgstr "2. herhangi bir yönden kaydırın."
+
+#: slideoptions.php:771 slideoptions.php:1316
+msgid "Melodic Media SlideBanner"
+msgstr "Melodic Media Popover Windows"
+
+#: slideoptions.php:773
+msgid "My Slide Banners"
+msgstr "Slayt Afişler"
+
+#: slideoptions.php:780
+msgid "SlideBanner"
+msgstr "Slayt Afişler"
+
+#: slideoptions.php:780
+msgid "Actions"
+msgstr "Eylemler"
+
+#: slideoptions.php:786
+msgid "PREVIEW"
+msgstr "ÖNİZLEME"
+
+#: slideoptions.php:786
+msgid "EDIT"
+msgstr "DÜZENLEME"
+
+#: slideoptions.php:790
+msgid "You have currently no slidebanners."
+msgstr "Şu anda hiçbir popover temaları var"
+
+#: slideoptions.php:814
+msgid "Uploading"
+msgstr "Yükleme"
+
+#: slideoptions.php:815
+msgid "Only jpeg, png and gif images could be uploaded"
+msgstr "Sadece jpeg , png ve gif görüntüleri yükledi olabilir"
+
+#: slideoptions.php:816
+msgid "Size exceeds 50kb limit"
+msgstr "Boyut 50kb sınırı aşıyor"
+
+#: slideoptions.php:817
+msgid "Uploaded"
+msgstr "Uploaded"
+
+#: slideoptions.php:818
+msgid "Size exceeds 250kb limit"
+msgstr "Boyut 250KB sınırı aşıyor"
+
+#: slideoptions.php:819
+msgid "Only swf file could be uploaded"
+msgstr "Sadece swf dosya yükledi olabilir"
+
+#: slideoptions.php:820
+msgid "Please make sure main banner image is uploaded"
+msgstr "Emin ana afiş resim yüklenir olun"
+
+#: slideoptions.php:821
+msgid "Please make sure first and main flash banner files are uploaded"
+msgstr "Emin Birinci ve ana flash banner dosyaları yüklenir olun"
+
+#: slideoptions.php:822
+msgid "Please make sure close button image is uploaded"
+msgstr "Emin kapatma düğmesi resim yüklenir olun"
+
+#: slideoptions.php:823
+msgid "Please make sure backup image is uploaded"
+msgstr "Emin ana afiş resim yüklenir olun"
+
+#: slideoptions.php:824
+msgid "Banner with this name already exists.Please Change the name"
+msgstr "Bu ada sahip penceresi zaten adını değiştirme exists.Please"
+
+#: slideoptions.php:825
+msgid "Fill this field"
+msgstr "Bu alanı doldurmak"
+
+#: slideoptions.php:826
+msgid "Please enter valid email address"
+msgstr "Lütfen Geçerli bir E-posta Adresi Girin"
+
+#: slideoptions.php:827
+msgid "Enter only number"
+msgstr "Bir Sayı Girin"
+
+#: slideoptions.php:828
+msgid "Previous Image deleted. Make sure to save banner"
+msgstr "Önceki Resim silindi . afiş kaydetmek için emin olun"
+
+#: slideoptions.php:829
+msgid "Previous flash deleted. Make sure to save banner"
+msgstr "Önceki flaş silindi . afiş kaydetmek için emin olun"
+
+#: slideoptions.php:830
+msgid "Correct Errors"
+msgstr "doğru Hatalar"
+
+#: slideoptions.php:831
+msgid "Please make sure open button image is uploaded"
+msgstr "Emin kapatma düğmesi resim yüklenir olun"
+
+#: slideoptions.php:848
+msgid "Edit SlideBanner"
+msgstr "sayfa düzenleme"
+
+#: slideoptions.php:850
+msgid "New SlideBanner"
+msgstr "Yeni Popover Tema"
+
+#: slideoptions.php:855
+msgid "Banner Type"
+msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#: slideoptions.php:857 slideoptions.php:1181
+msgid "Image Banner"
+msgstr "Banner Ad"
+
+#: slideoptions.php:857 slideoptions.php:1183
+msgid "HTML Banner"
+msgstr "HTML Banner"
+
+#: slideoptions.php:857 slideoptions.php:1182
+msgid "Flash Banner"
+msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#: slideoptions.php:870
+msgid "Scroll with Page"
+msgstr "Sayfa Başlıkları"
+
+#: slideoptions.php:871 slideoptions.php:874 slideoptions.php:877
+#: slideoptions.php:912 slideoptions.php:961 slideoptions.php:989
+#: slideoptions.php:1005 slideoptions.php:1014 slideoptions.php:1048
+#: slideoptions.php:1082 slideoptions.php:1104 slideoptions.php:1129
+#: slideoptions.php:1136
+msgid "Yes"
+msgstr "Evet"
+
+#: slideoptions.php:871 slideoptions.php:874 slideoptions.php:877
+#: slideoptions.php:913 slideoptions.php:963 slideoptions.php:989
+#: slideoptions.php:1005 slideoptions.php:1015 slideoptions.php:1048
+#: slideoptions.php:1082 slideoptions.php:1105 slideoptions.php:1130
+#: slideoptions.php:1136
+msgid "No"
+msgstr "hayir"
+
+#: slideoptions.php:872
+msgid "Show the open banner first?"
+msgstr "ilk açık afiş göster ?"
+
+#: slideoptions.php:873
+msgid "Banner will disappear when you click close button?"
+msgstr "Eğer yakın düğmesine tıkladığınızda Banner kaybolur ?"
+
+#: slideoptions.php:876
+msgid "Show the banner only once per day?"
+msgstr "günde yalnızca bir kez afiş göster ?"
+
+#: slideoptions.php:907 slideoptions.php:1010 slideoptions.php:1063
+#: slideoptions.php:1099
+msgid "Change Image (jpg, gif, png, max file size 250kb)"
+msgstr "Değişim Resim (jpg , gif, png, maksimum dosya boyutu 250KB )"
+
+#: slideoptions.php:909
+msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+msgstr "senin Görüntü Yükle ( jpg, gif , png , maksimum dosya boyutu 250KB )"
+
+#: slideoptions.php:911 slideoptions.php:1014
+msgid "Please set the URL you want it to link to http://"
+msgstr "hayır , URL’yi ayarlamak Lütfen Eğer http bağlamak istiyorum: //"
+
+#: slideoptions.php:912 slideoptions.php:1014
+msgid "Open link in new window?"
+msgstr "Yeni Popover penceresi Ekle"
+
+#: slideoptions.php:927
+msgid ""
+"In your html code include this code in onclick event or href of open button\n"
+"  to open banner"
+msgstr ""
+"html kodu onclick olay veya href \\ n Bu kodu dahil\n"
+"  Ana html afiş açmak için"
+
+#: slideoptions.php:936
+msgid ""
+"If you want to track clicks on your main html banner\n"
+"  add this code to onclick event of your ad link"
+msgstr ""
+"Eğer ana html afiş \\ n tıklamaları izlemek istiyorsanız\n"
+"  Reklam bağlantı onclick olay bu kodu ekleyin"
+
+#: slideoptions.php:941 slideoptions.php:981
+msgid ""
+"where 'enter_banner_name' is the name of your slide banner.Make sure that "
+"you replace the spaces in name with '_'."
+msgstr ""
+"'Enter_banner_name ' nerede slayt adı, ' _' ile adında boşluk yerine emin "
+"banner.Make."
+
+#: slideoptions.php:942
+msgid "Main Banner Type"
+msgstr "Yeni Aşağı Açılan Banner ekle"
+
+#: slideoptions.php:943
+msgid "Html Code"
+msgstr "html Kod"
+
+#: slideoptions.php:944
+msgid "External file"
+msgstr "dış dosya"
+
+#: slideoptions.php:944
+msgid "Enter HTML Code for your Main Banner"
+msgstr "Ana Banner HTML Kodunu Girin"
+
+#: slideoptions.php:945
+msgid "Enter full Link for your Main Banner File"
+msgstr "Ana Banner Dosyası için tam Linki girin"
+
+#: slideoptions.php:945
+msgid ""
+"The file could be .html or .php e.g 'http://www.someserver.com/somefile.php'"
+msgstr ""
+"Dosya .html veya .php örneğin ‘ http://www.someserver.com/somefile.php ‘ "
+"olabilir"
+
+#: slideoptions.php:946
+msgid "Enter the width of main html banner"
+msgstr "Ana html bayrağı genişliğini girin"
+
+#: slideoptions.php:948
+msgid "Enter the heigth of main html banner"
+msgstr "Ana html banner Yükseklik girin"
+
+#: slideoptions.php:974
+msgid ""
+"If you want to track clicks on flash banner.\n"
+"  Add this Actionscript on Ad link"
+msgstr ""
+"Eğer flash banner tıklamaları izlemek istiyorsanız . \\ n\n"
+"  Reklam bağlantısını bu Actionscript ekle"
+
+#: slideoptions.php:985
+msgid "Change main banner flash file(swf)"
+msgstr "Emin ana flash banner dosyası yüklenir olun"
+
+#: slideoptions.php:987
+msgid "Upload your flash file(swf)"
+msgstr "ana afiş flash dosyasını ( swf) yükleyin"
+
+#: slideoptions.php:989
+msgid "Will you have a close button in your flash file?"
+msgstr "Eğer flash dosyasında kapatma düğmesi var mı?"
+
+#: slideoptions.php:991
+msgid ""
+"Add a visible close button in your main banner flash file.\n"
+"  On that button add this Actionscript"
+msgstr ""
+"ana afiş flaş dosyasında görünür bir kapatma düğmesi ekleyin . \\ n\n"
+"  bu düğme bu Actionscript ekleyin"
+
+#: slideoptions.php:997
+msgid "To close banner on rollover add this Actionscript"
+msgstr "rollover banner kapatmak için bu Actionscript ekleyin"
+
+#: slideoptions.php:1005
+msgid "Do you want to have backup image for your flash file?"
+msgstr "Eğer flash dosyası için yedek imaja sahip olmak istiyorsunuz?"
+
+#: slideoptions.php:1012
+msgid "Upload your backup image (jpg, gif, png, max file size 250kb)"
+msgstr ""
+"Ana afiş yedek imajı yükleyin ( jpg, gif , png , maksimum dosya boyutu "
+"250KB )"
+
+#: slideoptions.php:1028
+msgid "Slide Direction"
+msgstr "Slayt Afişler"
+
+#: slideoptions.php:1030 slideoptions.php:1032
+msgid "Top"
+msgstr "Üst"
+
+#: slideoptions.php:1030
+msgid "(For more direction options buy the full version)"
+msgstr "(Tam sürümünü satın almak için daha fazla yönü seçenekleri)"
+
+#: slideoptions.php:1032
+msgid "Slide Position"
+msgstr "pozisyon"
+
+#: slideoptions.php:1034
+msgid ""
+"(Which ever option you choose above that will apply here) 0 = the center, "
+"100 mean 100 pixels from the center"
+msgstr ""
+"( Eğer yukarıda seçim hiç seçenek burada geçerli olacaktır hangi ) 0 "
+"merkezini = 100 merkezine 100 piksel anlamına"
+
+#: slideoptions.php:1035
+msgid "Second Position"
+msgstr "pozisyon"
+
+#: slideoptions.php:1037
+msgid "Right"
+msgstr "Doğru"
+
+#: slideoptions.php:1037
+msgid "(For more Position options buy the full version)"
+msgstr ""
+
+#: slideoptions.php:1048
+msgid "Use a Open button?"
+msgstr "Bizim genel yakın düğmesini kullanın"
+
+#: slideoptions.php:1053
+msgid "Open Button"
+msgstr "kapatma düğmesi ekstra kod eklemek ?"
+
+#: slideoptions.php:1054
+msgid "Use our generic open button"
+msgstr "Bizim genel yakın düğmesini kullanın"
+
+#: slideoptions.php:1054 slideoptions.php:1090
+msgid "Or, Upload your own"
+msgstr "İşte Altbilgi !"
+
+#: slideoptions.php:1056
+msgid "Select 1 open image"
+msgstr "1 yakın görüntü seçin"
+
+#: slideoptions.php:1065 slideoptions.php:1101
+msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+msgstr "senin Görüntü Yükle ( jpg, gif , png , maksimum dosya boyutu 50kb )"
+
+#: slideoptions.php:1069
+msgid "Open button CSS"
+msgstr "kapatma düğmesi ekstra kod eklemek ?"
+
+#: slideoptions.php:1082
+msgid "Use a Close button?"
+msgstr "Bizim genel yakın düğmesini kullanın"
+
+#: slideoptions.php:1089
+msgid "Close Button"
+msgstr "Kapat Düğmesi"
+
+#: slideoptions.php:1090
+msgid "Use our generic close button"
+msgstr "Bizim genel yakın düğmesini kullanın"
+
+#: slideoptions.php:1092
+msgid "Select 1 close image"
+msgstr "1 yakın görüntü seçin"
+
+#: slideoptions.php:1104
+msgid "Add extra code to the close button?"
+msgstr "kapatma düğmesi ekstra kod eklemek ?"
+
+#: slideoptions.php:1105
+msgid "(the code to execute when close button is clicked)"
+msgstr "(Kod kapatma düğmesi tıklandığında yürütmek için )"
+
+#: slideoptions.php:1108
+msgid "Enter the code to add to close button"
+msgstr "düğmesine kapatmak eklemek için kodu girin"
+
+#: slideoptions.php:1109
+msgid "Close button CSS"
+msgstr "Kapat Düğmesi"
+
+#: slideoptions.php:1111
+msgid "Set Placement of close button"
+msgstr "Popover Başlat düğmesi Yerleştirme ?"
+
+#: slideoptions.php:1112
+msgid "Top-Left"
+msgstr "Sol üst"
+
+#: slideoptions.php:1114
+msgid "Top-Right"
+msgstr "Sağ üst"
+
+#: slideoptions.php:1116
+msgid "Bottom-Left"
+msgstr "Alt metin değiştirmek!"
+
+#: slideoptions.php:1118
+msgid "Bottom-Right"
+msgstr "Alt metin değiştirmek!"
+
+#: slideoptions.php:1129
+msgid "Will your banner auto-open?"
+msgstr "banner otomatik açılacaktır ?"
+
+#: slideoptions.php:1132
+msgid "Auto-open the banner after"
+msgstr "sonra afiş Otomatik açmak"
+
+#: slideoptions.php:1132
+msgid "seconds  - Set 0 for right away"
+msgstr "saniye - hemen 0 olarak ayarlayın"
+
+#: slideoptions.php:1135
+msgid "Will your banner auto-close?"
+msgstr "banner otomatik kapanacak ?"
+
+#: slideoptions.php:1142
+msgid "Auto-close the banner after"
+msgstr "sonra afiş Otomatik kapatma"
+
+#: slideoptions.php:1142
+msgid "seconds  - Default is set to 10"
+msgstr "saniye - Standart 10 ayarlanır"
+
+#: slideoptions.php:1151
+msgid "Show the banner on?"
+msgstr "banner gösterilsin mi?"
+
+#: slideoptions.php:1151
+msgid "All Pages"
+msgstr "Tüm sayfalar"
+
+#: slideoptions.php:1151
+msgid "HomePage Only"
+msgstr "Ana Sadece"
+
+#: slideoptions.php:1151
+msgid "Specific Pages Only"
+msgstr "Belirli Sayfalar Sadece"
+
+#: slideoptions.php:1154
+msgid "Page Titles"
+msgstr "Sayfa Başlıkları"
+
+#: slideoptions.php:1154
+msgid ""
+"Titles of the page separated by commas on which to show the banner.(Case "
+"Sensitive)"
+msgstr ""
+"banner göstermek için virgülle ayırarak sayfanın Başlıkları . ( Harfe "
+"Duyarlı )"
+
+#: slideoptions.php:1155
+msgid "Screen size to display on"
+msgstr "Ekran boyutu görüntülemek için"
+
+#: slideoptions.php:1155
+msgid "All Sizes"
+msgstr "Tüm sayfalar"
+
+#: slideoptions.php:1155
+msgid "Desktop Only"
+msgstr "Ana Sadece"
+
+#: slideoptions.php:1155
+msgid "Tablet Only"
+msgstr "Mobil Sadece"
+
+#: slideoptions.php:1155
+msgid "Mobile Only"
+msgstr "Mobil Sadece"
+
+#: slideoptions.php:1158
+msgid "Screen Width"
+msgstr "ekran Genişliği"
+
+#: slideoptions.php:1339
+msgid "Preview Banner"
+msgstr "ÖNİZLEME"
+
+#: slideoptions.php:1339
+msgid "Save Banner"
+msgstr "Kaydet Penceresi"
+
+#: slidebanner.php:4
+msgid "Slide Banners (Free Version)"
+msgstr "Slayt Afişler ( Free Version)"
+
+#: slidebanner.php:6
+msgid "Create professional slide banners for any page on your Wordpress site."
+msgstr ""
+"Wordpress sitede herhangi bir sayfa için profesyonel slayt afiş oluşturun."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "Haftalık İstatistikler"
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Aylık İstatistikler"
+
+#~ msgid "Month"
+#~ msgstr "Ay"
+
+#~ msgid "Date"
+#~ msgstr "Tarih"
+
+#~ msgid "Week"
+#~ msgstr "Hafta"
+
+#~ msgid "Clicks"
+#~ msgstr "Tıklanma"
+
+#~ msgid "Impressions"
+#~ msgstr "gösterimler"
+
+#~ msgid "Opens"
+#~ msgstr "açar"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Tıklama Oranı"
+
+#~ msgid "Monthly"
+#~ msgstr "Aylık"
+
+#~ msgid "Daily"
+#~ msgstr "Günlük"
+
+#~ msgid "Weekly"
+#~ msgstr "Haftalık"
+
+#~ msgid "Stats History"
+#~ msgstr "İstatistikler Tarih"
+
+#~ msgid "No history found"
+#~ msgstr "Hiçbir tarih bulunamadı."
+
+#~ msgid "My Slide Banners Monthly Stats"
+#~ msgstr "Afiş Günlük İstatistikleri Push Down listem"
+
+#~ msgid "Imp. this month"
+#~ msgstr "Gösterimler bu ay"
+
+#~ msgid "Opens this month"
+#~ msgstr "Bu ay açar"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Bu ay Clicks"
+
+#~ msgid "History"
+#~ msgstr "tarih"
+
+#~ msgid "HISTORY"
+#~ msgstr "tarih"
+
+#~ msgid "My Slide Banners Weekly Stats"
+#~ msgstr "Afiş Haftalık İstatistikleri Push Down listem"
+
+#~ msgid "Imp. this week"
+#~ msgstr "gösterimler bugün"
+
+#~ msgid "Opens this week"
+#~ msgstr "bugün açar"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Tıklama bugün"
+
+#~ msgid "Bottom"
+#~ msgstr "Alt"
+
+#~ msgid "Left"
+#~ msgstr "Sol"
+
+#~ msgid "Top, Right, Bottom, Left,"
+#~ msgstr "Üst, Sağ , Alt, Sol,"

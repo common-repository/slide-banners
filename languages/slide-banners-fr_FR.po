@@ -1,0 +1,973 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-05 15:40+0500\n"
+"PO-Revision-Date: 2016-02-05 15:46+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: slidebanner.php:33
+msgid "Buy Full Version"
+msgstr "Acheter la version complète"
+
+#: slideoptions.php:439
+msgid "Slide Banners"
+msgstr "Bannières de diapositives"
+
+#: slideoptions.php:440
+msgid "Add New Slidebanner"
+msgstr "Ajouter Nouvelle Bannière de diapositives "
+
+#: slideoptions.php:441
+msgid "Daily Stats"
+msgstr "Stats quotidienne"
+
+#: slideoptions.php:706
+msgid "Melodic Media Slide Banner"
+msgstr "Mélodique Media Bannière de diapositives"
+
+#: slideoptions.php:708
+msgid "My Slide Banners Daily Stats"
+msgstr "Mon Bannières de diapositives statistiques quotidiennes"
+
+#: slideoptions.php:715
+msgid "Slide Banner"
+msgstr "Bannière de diapositives"
+
+#: slideoptions.php:715 slideoptions.php:780 slideoptions.php:853
+msgid "Banner Name"
+msgstr "Nom de la bannière"
+
+#: slideoptions.php:715
+msgid "Imp. today"
+msgstr "IMP. aujourd'hui"
+
+#: slideoptions.php:715
+msgid "Opens today"
+msgstr "Ouvre aujourd'hui"
+
+#: slideoptions.php:715
+msgid "Clicks today"
+msgstr "Clics aujourd'hui"
+
+#: slideoptions.php:720
+msgid "You have currently no slide banners."
+msgstr "Vous avez pour le moment aucune Bannières de diapositives."
+
+#: slideoptions.php:725 slideoptions.php:795
+msgid "Free version includes"
+msgstr "Version gratuite comprend"
+
+#: slideoptions.php:726 slideoptions.php:796
+msgid "1. Save and view daily stats for 1 banner."
+msgstr ""
+"1. Enregistrer et afficher les statistiques quotidiennes pour une bannière."
+
+#: slideoptions.php:727 slideoptions.php:797
+msgid "2. Only \"Top-Right\" sliding direction option."
+msgstr "2. Seul \"Haute-Droite\" option de direction de coulissement."
+
+#: slideoptions.php:729 slideoptions.php:799
+msgid "Full version includes"
+msgstr "La version complète inclut"
+
+#: slideoptions.php:730 slideoptions.php:800
+msgid "1. Save and view daily, weekly and monthly stats for unlimited banners."
+msgstr ""
+"1. Enregistrez et vue quotidienne , les statistiques hebdomadaires et "
+"mensuels pour les bannières illimitées ."
+
+#: slideoptions.php:731 slideoptions.php:801
+msgid "2. Slide from any direction."
+msgstr "2. Faites glisser dans toutes les directions ."
+
+#: slideoptions.php:771 slideoptions.php:1316
+msgid "Melodic Media SlideBanner"
+msgstr "Mélodique Media Bannière de diapositives "
+
+#: slideoptions.php:773
+msgid "My Slide Banners"
+msgstr "Mon Bannières de diapositives "
+
+#: slideoptions.php:780
+msgid "SlideBanner"
+msgstr "Bannière de diapositives "
+
+#: slideoptions.php:780
+msgid "Actions"
+msgstr "actes"
+
+#: slideoptions.php:786
+msgid "PREVIEW"
+msgstr "APERÇU"
+
+#: slideoptions.php:786
+msgid "EDIT"
+msgstr "Modifier"
+
+#: slideoptions.php:790
+msgid "You have currently no slidebanners."
+msgstr "Vous avez pour le moment aucune"
+
+#: slideoptions.php:814
+msgid "Uploading"
+msgstr "téléchargement"
+
+#: slideoptions.php:815
+msgid "Only jpeg, png and gif images could be uploaded"
+msgstr "Seuls les formats JPEG , PNG et GIF images peuvent être téléchargées"
+
+#: slideoptions.php:816
+msgid "Size exceeds 50kb limit"
+msgstr "Taille dépasse la limite de 50kb"
+
+#: slideoptions.php:817
+msgid "Uploaded"
+msgstr "Téléchargé"
+
+#: slideoptions.php:818
+msgid "Size exceeds 250kb limit"
+msgstr "Taille dépasse la limite de 250kb"
+
+#: slideoptions.php:819
+msgid "Only swf file could be uploaded"
+msgstr "Seuls les fichiers swf pu être téléchargé"
+
+#: slideoptions.php:820
+msgid "Please make sure main banner image is uploaded"
+msgstr ""
+"S'il vous plaît assurez-vous que l'image principale bannière est téléchargé"
+
+#: slideoptions.php:821
+msgid "Please make sure first and main flash banner files are uploaded"
+msgstr ""
+"S'il vous plaît assurez-vous que les premiers et principaux fichiers flash "
+"bannières sont téléchargés"
+
+#: slideoptions.php:822
+msgid "Please make sure close button image is uploaded"
+msgstr ""
+"S'il vous plaît assurez-vous que l'image de bouton de fermeture est "
+"téléchargé"
+
+#: slideoptions.php:823
+msgid "Please make sure backup image is uploaded"
+msgstr "S'il vous plaît assurez-vous que l'image de sauvegarde est téléchargé"
+
+#: slideoptions.php:824
+msgid "Banner with this name already exists.Please Change the name"
+msgstr "Bannière avec ce nom déjà exists.Please Changez le nom"
+
+#: slideoptions.php:825
+msgid "Fill this field"
+msgstr "Remplissez ce champ"
+
+#: slideoptions.php:826
+msgid "Please enter valid email address"
+msgstr "S'il vous plaît entrez l'adresse e-mail valide"
+
+#: slideoptions.php:827
+msgid "Enter only number"
+msgstr "Entrez seul numéro"
+
+#: slideoptions.php:828
+msgid "Previous Image deleted. Make sure to save banner"
+msgstr "Image précédente supprimé . Veillez à enregistrer bannière"
+
+#: slideoptions.php:829
+msgid "Previous flash deleted. Make sure to save banner"
+msgstr "Flash précédente supprimé . Veillez à enregistrer bannière"
+
+#: slideoptions.php:830
+msgid "Correct Errors"
+msgstr "Correction des erreurs"
+
+#: slideoptions.php:831
+msgid "Please make sure open button image is uploaded"
+msgstr ""
+"S'il vous plaît assurez-vous que l'image de bouton de ouvre est téléchargé"
+
+#: slideoptions.php:848
+msgid "Edit SlideBanner"
+msgstr "Modifier Bannière de diapositives "
+
+#: slideoptions.php:850
+msgid "New SlideBanner"
+msgstr "Nouvelle Bannière de diapositives "
+
+#: slideoptions.php:855
+msgid "Banner Type"
+msgstr "Type de  bannière "
+
+#: slideoptions.php:857 slideoptions.php:1181
+msgid "Image Banner"
+msgstr "Bannière de l'image"
+
+#: slideoptions.php:857 slideoptions.php:1183
+msgid "HTML Banner"
+msgstr "Bannière de l'html"
+
+#: slideoptions.php:857 slideoptions.php:1182
+msgid "Flash Banner"
+msgstr "Bannière de l'flash"
+
+#: slideoptions.php:870
+msgid "Scroll with Page"
+msgstr "Faire défiler avec la page"
+
+#: slideoptions.php:871 slideoptions.php:874 slideoptions.php:877
+#: slideoptions.php:912 slideoptions.php:961 slideoptions.php:989
+#: slideoptions.php:1005 slideoptions.php:1014 slideoptions.php:1048
+#: slideoptions.php:1082 slideoptions.php:1104 slideoptions.php:1129
+#: slideoptions.php:1136
+msgid "Yes"
+msgstr "Oui"
+
+#: slideoptions.php:871 slideoptions.php:874 slideoptions.php:877
+#: slideoptions.php:913 slideoptions.php:963 slideoptions.php:989
+#: slideoptions.php:1005 slideoptions.php:1015 slideoptions.php:1048
+#: slideoptions.php:1082 slideoptions.php:1105 slideoptions.php:1130
+#: slideoptions.php:1136
+msgid "No"
+msgstr "Non"
+
+#: slideoptions.php:872
+msgid "Show the open banner first?"
+msgstr "Montrer la bannière ouverte en premier?"
+
+#: slideoptions.php:873
+msgid "Banner will disappear when you click close button?"
+msgstr "Bannière disparaîtra lorsque vous cliquez sur le bouton de fermeture ?"
+
+#: slideoptions.php:876
+msgid "Show the banner only once per day?"
+msgstr "Afficher la bannière qu'une seule fois par jour ?"
+
+#: slideoptions.php:907 slideoptions.php:1010 slideoptions.php:1063
+#: slideoptions.php:1099
+msgid "Change Image (jpg, gif, png, max file size 250kb)"
+msgstr "Changer l'image ( jpg , gif, png , Taille max 250kb )"
+
+#: slideoptions.php:909
+msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+msgstr "Téléchargez votre image ( jpg , gif, png , Taille max 250kb )"
+
+#: slideoptions.php:911 slideoptions.php:1014
+msgid "Please set the URL you want it to link to http://"
+msgstr ""
+"S'il vous plaît mettre l'URL que vous voulez faire un lien vers http : //"
+
+#: slideoptions.php:912 slideoptions.php:1014
+msgid "Open link in new window?"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre?"
+
+#: slideoptions.php:927
+msgid ""
+"In your html code include this code in onclick event or href of open button\n"
+"  to open banner"
+msgstr ""
+"Dans votre code html inclure ce code dans l'événement onclick ou href du "
+"bouton d'ouverture\n"
+"  pour ouvrir la bannière"
+
+#: slideoptions.php:936
+msgid ""
+"If you want to track clicks on your main html banner\n"
+"  add this code to onclick event of your ad link"
+msgstr ""
+"Si vous voulez suivre les clics sur votre bannière principale html\n"
+"  ajouter ce code à l'événement onclick de votre annonce lien"
+
+#: slideoptions.php:941 slideoptions.php:981
+msgid ""
+"where 'enter_banner_name' is the name of your slide banner.Make sure that "
+"you replace the spaces in name with '_'."
+msgstr ""
+"où « enter_banner_name ' est le nom de votre diapositive banner.Make vous "
+"que vous remplacez les espaces dans le nom de ' _ ' ."
+
+#: slideoptions.php:942
+msgid "Main Banner Type"
+msgstr "Type de principal bannière :"
+
+#: slideoptions.php:943
+msgid "Html Code"
+msgstr "Le code HTML"
+
+#: slideoptions.php:944
+msgid "External file"
+msgstr "fichier externe"
+
+#: slideoptions.php:944
+msgid "Enter HTML Code for your Main Banner"
+msgstr "Entrez le code HTML pour votre bannière principale"
+
+#: slideoptions.php:945
+msgid "Enter full Link for your Main Banner File"
+msgstr "Entrez pleine Lien pour votre fichier bannière principale"
+
+#: slideoptions.php:945
+msgid ""
+"The file could be .html or .php e.g 'http://www.someserver.com/somefile.php'"
+msgstr ""
+"Le fichier peut être .html ou .php e.g ' http://www.someserver.com/somefile."
+"php '"
+
+#: slideoptions.php:946
+msgid "Enter the width of main html banner"
+msgstr "Entrez la largeur de la première bannière html"
+
+#: slideoptions.php:948
+msgid "Enter the heigth of main html banner"
+msgstr "Entrez le hauteur de la première bannière html"
+
+#: slideoptions.php:974
+msgid ""
+"If you want to track clicks on flash banner.\n"
+"  Add this Actionscript on Ad link"
+msgstr ""
+"Si vous voulez suivre les clics sur bannière flash .\n"
+"  Ajouter cette Actionscript sur ​​le lien de l'annonce"
+
+#: slideoptions.php:985
+msgid "Change main banner flash file(swf)"
+msgstr "Changer principal fichier bannière flash ( swf )"
+
+#: slideoptions.php:987
+msgid "Upload your flash file(swf)"
+msgstr "Téléchargez votre  fichier bannière  flash ( swf )"
+
+#: slideoptions.php:989
+msgid "Will you have a close button in your flash file?"
+msgstr "Aurez-vous un bouton de fermeture dans votre fichier flash ?"
+
+#: slideoptions.php:991
+msgid ""
+"Add a visible close button in your main banner flash file.\n"
+"  On that button add this Actionscript"
+msgstr ""
+"Ajouter un bouton de fermeture visible dans votre fichier principal bannière "
+"flash .\n"
+"  Sur ce bouton ajouter cette Actionscript"
+
+#: slideoptions.php:997
+msgid "To close banner on rollover add this Actionscript"
+msgstr "Pour fermer bannière sur rollover ajouter cette Actionscript"
+
+#: slideoptions.php:1005
+msgid "Do you want to have backup image for your flash file?"
+msgstr "Voulez-vous d'avoir l'image de sauvegarde de votre fichier flash ?"
+
+#: slideoptions.php:1012
+msgid "Upload your backup image (jpg, gif, png, max file size 250kb)"
+msgstr ""
+"Téléchargez votre image de sauvegarde ( jpg , gif, png , fichier max taille "
+"250kb )"
+
+#: slideoptions.php:1028
+msgid "Slide Direction"
+msgstr "Glisser vers"
+
+#: slideoptions.php:1030 slideoptions.php:1032
+msgid "Top"
+msgstr "Haut"
+
+#: slideoptions.php:1030
+msgid "(For more direction options buy the full version)"
+msgstr "(Pour plus d'options de direction acheter la version complète)"
+
+#: slideoptions.php:1032
+msgid "Slide Position"
+msgstr "Glisser position"
+
+#: slideoptions.php:1034
+msgid ""
+"(Which ever option you choose above that will apply here) 0 = the center, "
+"100 mean 100 pixels from the center"
+msgstr ""
+"( Quelle que soit l'option choisie ci-dessus qui sera applicable ici) 0 = le "
+"centre , 100 signifie 100 pixels du centre"
+
+#: slideoptions.php:1035
+msgid "Second Position"
+msgstr "Deuxième position"
+
+#: slideoptions.php:1037
+msgid "Right"
+msgstr "Droite"
+
+#: slideoptions.php:1037
+msgid "(For more Position options buy the full version)"
+msgstr "(Pour plus d'options de position acheter la version complète)"
+
+#: slideoptions.php:1048
+msgid "Use a Open button?"
+msgstr "Utilisez un bouton Ouvrir ?"
+
+#: slideoptions.php:1053
+msgid "Open Button"
+msgstr "bouton Ouvrir"
+
+#: slideoptions.php:1054
+msgid "Use our generic open button"
+msgstr "Utilisez notre bouton Ouvrir générique"
+
+#: slideoptions.php:1054 slideoptions.php:1090
+msgid "Or, Upload your own"
+msgstr "Ou , Téléchargez votre propre"
+
+#: slideoptions.php:1056
+msgid "Select 1 open image"
+msgstr "Sélectionnez 1 Ouvrir l'image "
+
+#: slideoptions.php:1065 slideoptions.php:1101
+msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+msgstr "Téléchargez votre image ( jpg , gif, png , Taille max 50kb )"
+
+#: slideoptions.php:1069
+msgid "Open button CSS"
+msgstr "Ouvrir bouton CSS"
+
+#: slideoptions.php:1082
+msgid "Use a Close button?"
+msgstr "Utilisez un bouton Fermer ?"
+
+#: slideoptions.php:1089
+msgid "Close Button"
+msgstr "Bouton Fermer "
+
+#: slideoptions.php:1090
+msgid "Use our generic close button"
+msgstr "Utilisez notre bouton Fermer générique"
+
+#: slideoptions.php:1092
+msgid "Select 1 close image"
+msgstr "Sélectionnez 1 fermer l'image "
+
+#: slideoptions.php:1104
+msgid "Add extra code to the close button?"
+msgstr "Ajouter du code supplémentaire pour le bouton de fermeture ?"
+
+#: slideoptions.php:1105
+msgid "(the code to execute when close button is clicked)"
+msgstr "( le code à exécuter lorsque le bouton de fermeture est cliqué )"
+
+#: slideoptions.php:1108
+msgid "Enter the code to add to close button"
+msgstr "Entrez le code à ajouter bouton pour fermer "
+
+#: slideoptions.php:1109
+msgid "Close button CSS"
+msgstr "Fermer bouton CSS"
+
+#: slideoptions.php:1111
+msgid "Set Placement of close button"
+msgstr "Réglez Placement du bouton de fermeture"
+
+#: slideoptions.php:1112
+msgid "Top-Left"
+msgstr "En haut à gauche"
+
+#: slideoptions.php:1114
+msgid "Top-Right"
+msgstr "En haut à droite"
+
+#: slideoptions.php:1116
+msgid "Bottom-Left"
+msgstr "En bas à gauche"
+
+#: slideoptions.php:1118
+msgid "Bottom-Right"
+msgstr "En bas à droite"
+
+#: slideoptions.php:1129
+msgid "Will your banner auto-open?"
+msgstr "Votre bannière sera auto- ouverte ?"
+
+#: slideoptions.php:1132
+msgid "Auto-open the banner after"
+msgstr "Auto - ouvrir la bannière après"
+
+#: slideoptions.php:1132
+msgid "seconds  - Set 0 for right away"
+msgstr "secondes - Mettre 0 pour tout de suite"
+
+#: slideoptions.php:1135
+msgid "Will your banner auto-close?"
+msgstr "Votre bannière fermeture automatique ?"
+
+#: slideoptions.php:1142
+msgid "Auto-close the banner after"
+msgstr "Auto - fermer la bannière après"
+
+#: slideoptions.php:1142
+msgid "seconds  - Default is set to 10"
+msgstr "secondes - par défaut est de 10"
+
+#: slideoptions.php:1151
+msgid "Show the banner on?"
+msgstr "Afficher la bannière sur ?"
+
+#: slideoptions.php:1151
+msgid "All Pages"
+msgstr "Toutes les pages"
+
+#: slideoptions.php:1151
+msgid "HomePage Only"
+msgstr "Seulement HomePage"
+
+#: slideoptions.php:1151
+msgid "Specific Pages Only"
+msgstr "Pages spécifiques Seulement"
+
+#: slideoptions.php:1154
+msgid "Page Titles"
+msgstr "les titres de page"
+
+#: slideoptions.php:1154
+msgid ""
+"Titles of the page separated by commas on which to show the banner.(Case "
+"Sensitive)"
+msgstr ""
+"Titres de la page séparés par des virgules sur lesquelles montrer la "
+"bannière . ( Sensible à la casse )"
+
+#: slideoptions.php:1155
+msgid "Screen size to display on"
+msgstr "Taille de l'écran pour afficher le"
+
+#: slideoptions.php:1155
+msgid "All Sizes"
+msgstr "Toutes les tailles"
+
+#: slideoptions.php:1155
+msgid "Desktop Only"
+msgstr "Seulement bureau"
+
+#: slideoptions.php:1155
+msgid "Tablet Only"
+msgstr "Seulement tablette"
+
+#: slideoptions.php:1155
+msgid "Mobile Only"
+msgstr "Seulement mobile"
+
+#: slideoptions.php:1158
+msgid "Screen Width"
+msgstr "Largeur de l'écran"
+
+#: slideoptions.php:1339
+msgid "Preview Banner"
+msgstr "Aperçu Bannière"
+
+#: slideoptions.php:1339
+msgid "Save Banner"
+msgstr "Sauvegarder Bannière"
+
+#: slidebanner.php:4
+msgid "Slide Banners (Free Version)"
+msgstr "Bannières de diapositives (version gratuite)"
+
+#: slidebanner.php:6
+msgid "Create professional slide banners for any page on your Wordpress site."
+msgstr ""
+"Créer des Bannières de diapositives professionnels pour une page sur votre "
+"site Wordpress."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "statistiques hebdomadaires..."
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Statistiques mensuelles"
+
+#~ msgid "Month"
+#~ msgstr "Mois"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Week"
+#~ msgstr "Semaine"
+
+#~ msgid "Clicks"
+#~ msgstr "Clics"
+
+#~ msgid "Impressions"
+#~ msgstr "Impressions"
+
+#~ msgid "Opens"
+#~ msgstr "Ouvertures"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Taux de Clics"
+
+#~ msgid "Monthly"
+#~ msgstr "Mensuelles"
+
+#~ msgid "Daily"
+#~ msgstr "Quotidiennes"
+
+#~ msgid "Weekly"
+#~ msgstr "Hebdomadaire"
+
+#~ msgid "Stats History"
+#~ msgstr "Statistiques Histoire"
+
+#~ msgid "No history found"
+#~ msgstr "Pas d'historique"
+
+#~ msgid "My Slide Banners Monthly Stats"
+#~ msgstr "Mon Bannières de diapositives  Statistiques mensuelles"
+
+#~ msgid "Imp. this month"
+#~ msgstr "IMP. ce mois"
+
+#~ msgid "Opens this month"
+#~ msgstr "Ouvre  ce mois"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Clics ce mois"
+
+#~ msgid "History"
+#~ msgstr "Histoire"
+
+#~ msgid "HISTORY"
+#~ msgstr "Histoire"
+
+#~ msgid "My Slide Banners Weekly Stats"
+#~ msgstr "Mon Bannières de diapositives  Statistiques Hebdomadaire"
+
+#~ msgid "Imp. this week"
+#~ msgstr "IMP. cette semaine"
+
+#~ msgid "Opens this week"
+#~ msgstr "Ouvre  cette semaine"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Clics cette semaine"
+
+#~ msgid "Bottom"
+#~ msgstr "Bas"
+
+#~ msgid "Left"
+#~ msgstr "Gauche"
+
+#~ msgid "Top, Right, Bottom, Left,"
+#~ msgstr "Haut, Droite, Bas, Gauche"
+
+#~ msgid "Expandable Banners"
+#~ msgstr "Bannières Extensibles"
+
+#~ msgid "Add New Expandable Banner"
+#~ msgstr "Ajouter Nouvelle bannière extensible"
+
+#~ msgid "Click Through Rate (%)"
+#~ msgstr "Taux de clics (%)"
+
+#~ msgid "Melodic Media Expandable Banner"
+#~ msgstr "Mélodique Media bannière extensible"
+
+#~ msgid "My Expandable Banners Monthly Stats"
+#~ msgstr "Mes extensibles Bannières Statistiques mensuelles"
+
+#~ msgid "Expandable Banner"
+#~ msgstr "Bannière extensible"
+
+#~ msgid "You have currently no expandable banners"
+#~ msgstr "Vous n'avez actuellement aucune Bannières extensibles"
+
+#~ msgid "My Expandable Banners Daily Stats"
+#~ msgstr "Mes Stats quotidienne de bannières extensibles"
+
+#~ msgid "You have currently no expandable banners."
+#~ msgstr "Vous n'avez actuellement aucune Bannières extensibles"
+
+#~ msgid "My Expandable Banners Weekly Stats"
+#~ msgstr "Mes extensibles Bannières Statistiques Hebdomadaire"
+
+#~ msgid "My Expandable Banners"
+#~ msgstr "Mes bannières extensibles"
+
+#~ msgid "Please make sure first banner, main banner images are uploaded"
+#~ msgstr ""
+#~ "S'il vous plaît assurez-vous que la première bannière, images principales "
+#~ "bannières sont téléchargés"
+
+#~ msgid "Edit Expandable Banner"
+#~ msgstr "Modifier extensible Bannière"
+
+#~ msgid "New Expandable Banner"
+#~ msgstr "Nouvelle bannière extensible"
+
+#~ msgid "Type of banner:"
+#~ msgstr "Type de bannière :"
+
+#~ msgid "First/Open Banner:"
+#~ msgstr "Première / Open Bannière:"
+
+#~ msgid "Change Image (jpg, gif, png, max file size 50kb)"
+#~ msgstr "Changer l'image ( jpg , gif, png , Taille max 50kb )"
+
+#~ msgid "Expand On"
+#~ msgstr "Développer Sur"
+
+#~ msgid "Rollover"
+#~ msgstr "Rouler"
+
+#~ msgid "Click"
+#~ msgstr "Cliquez"
+
+#~ msgid "2nd Banner:"
+#~ msgstr "une deuxième bannière"
+
+#~ msgid "First/Open Flash Banner:"
+#~ msgstr "Première / Open Flash Bannière:"
+
+#~ msgid "Change First/Open banner flash file(swf)"
+#~ msgstr "Changer Premier/Ouverte fichier bannière flash ( swf )"
+
+#~ msgid "Upload your first/open banner flash file(swf)"
+#~ msgstr "Téléchargez votre premier/ouverte fichier bannière  flash ( swf )"
+
+#~ msgid ""
+#~ "Add this Actionscript on link or button to open/expand banner on click"
+#~ msgstr ""
+#~ "Ajouter cette Actionscript sur ​​le lien ou sur le bouton pour ouvrir / "
+#~ "étendre bannière sur clic"
+
+#~ msgid "To open banner on rollover add this Actionscript"
+#~ msgstr "Pour ouvrir bannière sur rollover ajouter cette Actionscript"
+
+#~ msgid "2nd Flash Banner:"
+#~ msgstr "une deuxième flash bannière"
+
+#~ msgid ""
+#~ "where 'enter_banner_name' is the name of your expandable banner.Make sure "
+#~ "that you replace the spaces in name with '_'."
+#~ msgstr ""
+#~ "où « enter_banner_name ' est le nom de votre banner.Make extensible vous "
+#~ "que vous remplacez les espaces dans le nom de ' _ ' ."
+
+#~ msgid "Change 2nd banner flash file(swf)"
+#~ msgstr "Changer deuxième fichier bannière flash ( swf )"
+
+#~ msgid "Upload your 2nd banner flash file(swf)"
+#~ msgstr "Téléchargez votre deuxième fichier bannière  flash ( swf )"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Changer Première/Ouverte image  bannière de sauvegarde ( jpg , gif, png , "
+#~ "Taille max 250kb )"
+
+#~ msgid ""
+#~ "Upload your First/Open banner backup image (jpg, gif, png, max file size "
+#~ "50kb)"
+#~ msgstr ""
+#~ "Téléchargez votre image bannière de sauvegarde Premier / Open ( jpg , "
+#~ "gif, png , Taille max 50kb )"
+
+#~ msgid "Change 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Changer l'image deuxième bannière de sauvegarde ( jpg , gif, png , Taille "
+#~ "max 250kb )"
+
+#~ msgid ""
+#~ "Upload your 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Téléchargez votre photo deuxième bannière de sauvegarde ( jpg , gif, "
+#~ "png , Taille max 250kb )"
+
+#~ msgid "First/Open HTML Banner:"
+#~ msgstr "Première / Open HTML Bannière:"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "Dans votre code html inclure ce code dans l'événement onclick ou href\n"
+#~ "  pour ouvrir principale html bannière"
+
+#~ msgid "Enter HTML Code for your First Banner"
+#~ msgstr "Entrez le code HTML pour votre première bannière"
+
+#~ msgid "Enter the width of first html banner"
+#~ msgstr "Entrez la largeur de la première bannière html"
+
+#~ msgid "Enter the heigth of first html banner"
+#~ msgstr "Entrez le hauteur de la première bannière html"
+
+#~ msgid "Main HTML Banner:"
+#~ msgstr "Principal HTML Bannière:"
+
+#~ msgid "Does your Main HTML Code contains Javascript?"
+#~ msgstr "Est-ce que votre code HTML principal Code contient Javascript ?"
+
+#~ msgid "Close Button:"
+#~ msgstr "Bouton Fermer :"
+
+#~ msgid "Select 1 close image:"
+#~ msgstr "Sélectionnez 1 fermer l'image :"
+
+#~ msgid "Set Placement of close button:"
+#~ msgstr "Réglez placement de bouton de fermeture :"
+
+#~ msgid "Do you want close button on outside?"
+#~ msgstr "Voulez-vous bouton de fermeture de l'extérieur ?"
+
+#~ msgid "Enter the code to add to close button:"
+#~ msgstr "Entrez le code à ajouter bouton pour fermer :"
+
+#~ msgid "Expand Direction:"
+#~ msgstr "Développer Direction :"
+
+#~ msgid "Left-Top"
+#~ msgstr "Gauche - Haut"
+
+#~ msgid "Center-Top"
+#~ msgstr "Centre - Haut"
+
+#~ msgid "Right-Top"
+#~ msgstr "Droit - Haut"
+
+#~ msgid "Left-Center"
+#~ msgstr "Gauche -Centre"
+
+#~ msgid "Center-Center"
+#~ msgstr "Centre-Centre "
+
+#~ msgid "Right-Center"
+#~ msgstr "Droit - Centre"
+
+#~ msgid "Left-Bottom"
+#~ msgstr "Gauche - Bas"
+
+#~ msgid "Center-Bottom"
+#~ msgstr "Centre - Bas"
+
+#~ msgid "Right-Bottom"
+#~ msgstr "Droit-Bas"
+
+#~ msgid "Animate?"
+#~ msgstr "Animer?"
+
+#~ msgid "YES"
+#~ msgstr "Oui"
+
+#~ msgid "NO"
+#~ msgstr "Non"
+
+#~ msgid "Animation Speed"
+#~ msgstr "La vitesse d'animation"
+
+#~ msgid "Will this be a Corner Page Peel Banner?"
+#~ msgstr "Sera-ce un coin Peel page Banner?"
+
+#~ msgid "seconds  - Set 0 for right away."
+#~ msgstr "secondes - Mettre 0 pour tout de suite."
+
+#~ msgid "Placement: First Item on Page"
+#~ msgstr "le Placement: Première question à la page"
+
+#~ msgid "Placement: Div ID"
+#~ msgstr "le Placement: div id"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which expandable banner should "
+#~ "appear"
+#~ msgstr ""
+#~ "Id de div ou tout autre élément HTML dans lequel bannière extensible "
+#~ "devrait apparaître"
+
+#~ msgid ""
+#~ "Note If placing into a Post, manually add a new DIV layer in your post "
+#~ "like this"
+#~ msgstr ""
+#~ "Remarque Si vous placez dans un Post, ajouter manuellement une nouvelle "
+#~ "couche de DIV dans votre message comme celui-ci"
+
+#~ msgid "Then add \"expandablepost\" in the box above"
+#~ msgstr "Puis ajouter \" expandablepost \" dans le tableau ci-dessus"
+
+#~ msgid "Placement of Expandable Banner?"
+#~ msgstr "placement de  bannière extensible"
+
+#~ msgid "Start of Div"
+#~ msgstr "Début de la Div"
+
+#~ msgid "End of Div"
+#~ msgstr "Fin de Div"
+
+#~ msgid "Add CSS above your Expandable Banner"
+#~ msgstr "Ajouter CSS -dessus de votre bannière extensible"
+
+#~ msgid "Add CSS below your Expandable Banner"
+#~ msgstr "Ajouter CSS ci-dessous votre extensible Bannière"
+
+#~ msgid "Make the banner Responsive?"
+#~ msgstr "Faire la bannière Responsive ?"
+
+#~ msgid "Screen size to display on:"
+#~ msgstr "Taille de l'écran pour afficher sur:"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress "
+#~ "site."
+#~ msgstr ""
+#~ "Créer des bannières extensibles professionnels pour une page sur votre "
+#~ "site Wordpress ."
+
+#~ msgid "CTR"
+#~ msgstr "CTR"
+
+#~ msgid "2. Only \"center to center\" direction expanding option."
+#~ msgstr "2. Seul « centre à centre » l'option expansion de direction."
+
+#~ msgid "2. Expand in any direction."
+#~ msgstr "2. Développer dans tous les sens ."
+
+#~ msgid "Center-Center (For more direction options buy the full version)"
+#~ msgstr ""
+#~ "Centre-Centre ( Pour plus d'options de direction acheter la version "
+#~ "complète )"
+
+#~ msgid " No"
+#~ msgstr "Non"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear ."
+#~ msgstr ""
+#~ "Id d' autre élément HTML div ou toute dans lequel pushdown bannière "
+#~ "devrait apparaître ."
+
+#~ msgid ""
+#~ "*Note If placing into a Post, manually add a new DIV layer in your post "
+#~ "like this"
+#~ msgstr ""
+#~ "* Remarque Si vous placez dans un message , ajouter manuellement une "
+#~ "nouvelle couche de DIV dans votre post comme ça"
+
+#~ msgid "Then add \"expandablepost\" in the box above."
+#~ msgstr "Puis ajouter \" expandablepost \" dans la case ci-dessus."
+
+#~ msgid "Expandable Banners (Free Version)"
+#~ msgstr "Bannières extensibles (version gratuite )"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress site"
+#~ msgstr ""
+#~ "Créer des bannières extensibles professionnels pour une page sur votre "
+#~ "site Wordpress"

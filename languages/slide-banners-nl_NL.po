@@ -1,0 +1,1228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Melodic Media
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-08 14:10+0500\n"
+"PO-Revision-Date: 2016-02-08 14:13+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: slidebanner.php:33
+msgid "Buy Full Version"
+msgstr "Koop de volledige versie"
+
+#: slideoptions.php:439
+msgid "Slide Banners"
+msgstr "Dia Banners"
+
+#: slideoptions.php:440
+msgid "Add New Slidebanner"
+msgstr "Toevoegen van nieuwe Dia Banner"
+
+#: slideoptions.php:441
+msgid "Daily Stats"
+msgstr "Dagelijkse statistieken"
+
+#: slideoptions.php:706
+msgid "Melodic Media Slide Banner"
+msgstr "Melodische Media Dia Banner"
+
+#: slideoptions.php:708
+msgid "My Slide Banners Daily Stats"
+msgstr "Mijn dia Banners dagelijkse statistieken"
+
+#: slideoptions.php:715
+msgid "Slide Banner"
+msgstr "Dia Banner"
+
+#: slideoptions.php:715 slideoptions.php:780 slideoptions.php:853
+msgid "Banner Name"
+msgstr "De naam van de banner"
+
+#: slideoptions.php:715
+msgid "Imp. today"
+msgstr "Imp. vandaag"
+
+#: slideoptions.php:715
+msgid "Opens today"
+msgstr "Opent vandaag"
+
+#: slideoptions.php:715
+msgid "Clicks today"
+msgstr "Kliks vandaag"
+
+#: slideoptions.php:720
+msgid "You have currently no slide banners."
+msgstr "U hebt momenteel geen dia banners."
+
+#: slideoptions.php:725 slideoptions.php:795
+msgid "Free version includes"
+msgstr "Gratis versie bevat"
+
+#: slideoptions.php:726 slideoptions.php:796
+msgid "1. Save and view daily stats for 1 banner."
+msgstr "1. Opslaan en bekijken dagelijkse statistieken voor 1 banner."
+
+#: slideoptions.php:727 slideoptions.php:797
+msgid "2. Only \"Top-Right\" sliding direction option."
+msgstr "2. Alleen \"Rechtsboven\" sliding richting optie."
+
+#: slideoptions.php:729 slideoptions.php:799
+msgid "Full version includes"
+msgstr "Volledige versie bevat"
+
+#: slideoptions.php:730 slideoptions.php:800
+msgid "1. Save and view daily, weekly and monthly stats for unlimited banners."
+msgstr ""
+"1. Opslaan en uitzicht op de dagelijkse, wekelijkse en maandelijkse "
+"statistieken voor een onbeperkt aantal banners."
+
+#: slideoptions.php:731 slideoptions.php:801
+msgid "2. Slide from any direction."
+msgstr "2. Schuif vanuit elke richting."
+
+#: slideoptions.php:771 slideoptions.php:1316
+msgid "Melodic Media SlideBanner"
+msgstr "Melodische Media Dia Banner"
+
+#: slideoptions.php:773
+msgid "My Slide Banners"
+msgstr "Mijn dia-Banners"
+
+#: slideoptions.php:780
+msgid "SlideBanner"
+msgstr "Dia Banner"
+
+#: slideoptions.php:780
+msgid "Actions"
+msgstr "Acties"
+
+#: slideoptions.php:786
+msgid "PREVIEW"
+msgstr "Voorbeeld"
+
+#: slideoptions.php:786
+msgid "EDIT"
+msgstr "Bewerk"
+
+#: slideoptions.php:790
+msgid "You have currently no slidebanners."
+msgstr "U hebt momenteel geen Dia Banners."
+
+#: slideoptions.php:814
+msgid "Uploading"
+msgstr "Uploaden"
+
+#: slideoptions.php:815
+msgid "Only jpeg, png and gif images could be uploaded"
+msgstr "Alleen jpeg-, png- en GIF-afbeeldingen kunnen worden geüpload"
+
+#: slideoptions.php:816
+msgid "Size exceeds 50kb limit"
+msgstr "Grootte overschrijdt 50kb"
+
+#: slideoptions.php:817
+msgid "Uploaded"
+msgstr "Geupload"
+
+#: slideoptions.php:818
+msgid "Size exceeds 250kb limit"
+msgstr "Grootte overschrijdt 250kb"
+
+#: slideoptions.php:819
+msgid "Only swf file could be uploaded"
+msgstr "Alleen SWF-bestand kan worden geüpload"
+
+#: slideoptions.php:820
+msgid "Please make sure main banner image is uploaded"
+msgstr "Zorg ervoor dat de belangrijkste banner beeld is geüpload"
+
+#: slideoptions.php:821
+msgid "Please make sure first and main flash banner files are uploaded"
+msgstr ""
+"Controleer zeker de eerste en belangrijkste flash banner bestanden zijn "
+"geüpload"
+
+#: slideoptions.php:822
+msgid "Please make sure close button image is uploaded"
+msgstr "Zorg ervoor dat de afbeelding van de knop sluiten is geüpload"
+
+#: slideoptions.php:823
+msgid "Please make sure backup image is uploaded"
+msgstr "Controleer of backup-kopie spiegelbeeld is geüpload"
+
+#: slideoptions.php:824
+msgid "Banner with this name already exists.Please Change the name"
+msgstr "Banner met deze naam bestaat al. Wijzig de naam"
+
+#: slideoptions.php:825
+msgid "Fill this field"
+msgstr "Vul dit veld"
+
+#: slideoptions.php:826
+msgid "Please enter valid email address"
+msgstr "Voer een geldig e-mailadres in"
+
+#: slideoptions.php:827
+msgid "Enter only number"
+msgstr "Voer alleen nummer"
+
+#: slideoptions.php:828
+msgid "Previous Image deleted. Make sure to save banner"
+msgstr ""
+"Vorige afbeelding verwijderd. Zorg ervoor dat op te slaan van de banner"
+
+#: slideoptions.php:829
+msgid "Previous flash deleted. Make sure to save banner"
+msgstr "Vorige Flits verwijderd. Zorg ervoor dat op te slaan van de banner"
+
+#: slideoptions.php:830
+msgid "Correct Errors"
+msgstr "Corrigeer de fouten"
+
+#: slideoptions.php:831
+msgid "Please make sure open button image is uploaded"
+msgstr "Zorg ervoor dat de afbeelding van de knop openen is geüpload"
+
+#: slideoptions.php:848
+msgid "Edit SlideBanner"
+msgstr "Dia Banner bewerken"
+
+#: slideoptions.php:850
+msgid "New SlideBanner"
+msgstr "Nieuwe Dia Banner"
+
+#: slideoptions.php:855
+msgid "Banner Type"
+msgstr "Soort banner"
+
+#: slideoptions.php:857 slideoptions.php:1181
+msgid "Image Banner"
+msgstr "Afbeelding Banner"
+
+#: slideoptions.php:857 slideoptions.php:1183
+msgid "HTML Banner"
+msgstr "HTML Banner"
+
+#: slideoptions.php:857 slideoptions.php:1182
+msgid "Flash Banner"
+msgstr "Flash Banner"
+
+#: slideoptions.php:870
+msgid "Scroll with Page"
+msgstr "Schuiven met pagina"
+
+#: slideoptions.php:871 slideoptions.php:874 slideoptions.php:877
+#: slideoptions.php:912 slideoptions.php:961 slideoptions.php:989
+#: slideoptions.php:1005 slideoptions.php:1014 slideoptions.php:1048
+#: slideoptions.php:1082 slideoptions.php:1104 slideoptions.php:1129
+#: slideoptions.php:1136
+msgid "Yes"
+msgstr "Ja"
+
+#: slideoptions.php:871 slideoptions.php:874 slideoptions.php:877
+#: slideoptions.php:913 slideoptions.php:963 slideoptions.php:989
+#: slideoptions.php:1005 slideoptions.php:1015 slideoptions.php:1048
+#: slideoptions.php:1082 slideoptions.php:1105 slideoptions.php:1130
+#: slideoptions.php:1136
+msgid "No"
+msgstr "Nee"
+
+#: slideoptions.php:872
+msgid "Show the open banner first?"
+msgstr "De open banner eerst weergeven?"
+
+#: slideoptions.php:873
+msgid "Banner will disappear when you click close button?"
+msgstr "Banner verdwijnt wanneer u op de knop Sluiten klikt?"
+
+#: slideoptions.php:876
+msgid "Show the banner only once per day?"
+msgstr "Toon de banner slechts eenmaal per dag?"
+
+#: slideoptions.php:907 slideoptions.php:1010 slideoptions.php:1063
+#: slideoptions.php:1099
+msgid "Change Image (jpg, gif, png, max file size 250kb)"
+msgstr "Afbeelding (jpg, gif, png, max bestandsgrootte 250kb) wijzigen"
+
+#: slideoptions.php:909
+msgid "Upload your Image (jpg, gif, png, max file size 250kb)"
+msgstr ""
+"Upload uw afbeelding (jpg, gif, png, maximale bestandsgrootte van 250kb)"
+
+#: slideoptions.php:911 slideoptions.php:1014
+msgid "Please set the URL you want it to link to http://"
+msgstr "Stel de URL die u wilt koppelen aan http://"
+
+#: slideoptions.php:912 slideoptions.php:1014
+msgid "Open link in new window?"
+msgstr "Link openen in een nieuw venster?"
+
+#: slideoptions.php:927
+msgid ""
+"In your html code include this code in onclick event or href of open button\n"
+"  to open banner"
+msgstr ""
+"In uw HTML-code bevatten deze code in de gebeurtenis onclick of href van "
+"knop openen te openen van de banner"
+
+#: slideoptions.php:936
+msgid ""
+"If you want to track clicks on your main html banner\n"
+"  add this code to onclick event of your ad link"
+msgstr ""
+"Als u wilt bijhouden kliks op uw belangrijkste html banner Voeg deze code "
+"toe aan de gebeurtenis onclick van de link van uw advertentie"
+
+#: slideoptions.php:941 slideoptions.php:981
+msgid ""
+"where 'enter_banner_name' is the name of your slide banner.Make sure that "
+"you replace the spaces in name with '_'."
+msgstr ""
+"waar 'enter_banner_name' is de naam van uw Dia Banner. Zorg ervoor dat u de "
+"spaties in de naam vervangen door '_'."
+
+#: slideoptions.php:942
+msgid "Main Banner Type"
+msgstr "Soort Belangrijkste banner:"
+
+#: slideoptions.php:943
+msgid "Html Code"
+msgstr "HTML-Code"
+
+#: slideoptions.php:944
+msgid "External file"
+msgstr "Extern bestand"
+
+#: slideoptions.php:944
+msgid "Enter HTML Code for your Main Banner"
+msgstr "HTML-Code voor uw Banner Main invoeren"
+
+#: slideoptions.php:945
+msgid "Enter full Link for your Main Banner File"
+msgstr "Voer de volledige Link voor uw Main Banner bestand"
+
+#: slideoptions.php:945
+msgid ""
+"The file could be .html or .php e.g 'http://www.someserver.com/somefile.php'"
+msgstr ""
+"Het bestand zou .html of .php bijvoorbeeld 'http://www.someserver.com/"
+"somefile.php'"
+
+#: slideoptions.php:946
+msgid "Enter the width of main html banner"
+msgstr "Geef de breedte van de belangrijkste html banner"
+
+#: slideoptions.php:948
+msgid "Enter the heigth of main html banner"
+msgstr "Voer de hoogte van de belangrijkste html banner"
+
+#: slideoptions.php:974
+msgid ""
+"If you want to track clicks on flash banner.\n"
+"  Add this Actionscript on Ad link"
+msgstr ""
+"Als u wilt bijhouden van klikken op flash banner.\n"
+"  Deze ActionScript-code toevoegt op Ad link"
+
+#: slideoptions.php:985
+msgid "Change main banner flash file(swf)"
+msgstr "Belangrijkste banner flash file(swf) wijzigen"
+
+#: slideoptions.php:987
+msgid "Upload your flash file(swf)"
+msgstr "Upload uw flash file(swf)"
+
+#: slideoptions.php:989
+msgid "Will you have a close button in your flash file?"
+msgstr "Moet u een sluitknop in uw flash-bestand?"
+
+#: slideoptions.php:991
+msgid ""
+"Add a visible close button in your main banner flash file.\n"
+"  On that button add this Actionscript"
+msgstr ""
+"Een zichtbaar sluitknop in uw belangrijkste banner flash-bestand toevoegen.\n"
+"  Op die knop deze ActionScript-code toevoegt"
+
+#: slideoptions.php:997
+msgid "To close banner on rollover add this Actionscript"
+msgstr "Kortom banner op rollover deze ActionScript-code toevoegt"
+
+#: slideoptions.php:1005
+msgid "Do you want to have backup image for your flash file?"
+msgstr "Wilt u moeten backup-kopie spiegelbeeld voor uw flash-bestand?"
+
+#: slideoptions.php:1012
+msgid "Upload your backup image (jpg, gif, png, max file size 250kb)"
+msgstr ""
+"Upload uw backup-kopie spiegelbeeld (jpg, gif, png, max bestandsgrootte "
+"250kb)"
+
+#: slideoptions.php:1028
+msgid "Slide Direction"
+msgstr "Schuif richting"
+
+#: slideoptions.php:1030 slideoptions.php:1032
+msgid "Top"
+msgstr "Boven"
+
+#: slideoptions.php:1030
+msgid "(For more direction options buy the full version)"
+msgstr "(Voor meer richting opties te kopen de volledige versie)"
+
+#: slideoptions.php:1032
+msgid "Slide Position"
+msgstr "Positie van de dia"
+
+#: slideoptions.php:1034
+msgid ""
+"(Which ever option you choose above that will apply here) 0 = the center, "
+"100 mean 100 pixels from the center"
+msgstr ""
+"(Ooit welke optie u boven dat kiest geldt hier) 0 = de center, 100 "
+"gemiddelde 100 pixels van het centrum"
+
+#: slideoptions.php:1035
+msgid "Second Position"
+msgstr "Positie tweede"
+
+#: slideoptions.php:1037
+msgid "Right"
+msgstr "Rechts"
+
+#: slideoptions.php:1037
+msgid "(For more Position options buy the full version)"
+msgstr "(Voor meer Position opties te kopen de volledige versie)"
+
+#: slideoptions.php:1048
+msgid "Use a Open button?"
+msgstr "Gebruik een knop openen?"
+
+#: slideoptions.php:1053
+msgid "Open Button"
+msgstr "Knop openen"
+
+#: slideoptions.php:1054
+msgid "Use our generic open button"
+msgstr "Gebruik onze generieke knop openen"
+
+#: slideoptions.php:1054 slideoptions.php:1090
+msgid "Or, Upload your own"
+msgstr "Of Upload uw eigen"
+
+#: slideoptions.php:1056
+msgid "Select 1 open image"
+msgstr "Selecteer 1 afbeelding openen"
+
+#: slideoptions.php:1065 slideoptions.php:1101
+msgid "Upload your Image (jpg, gif, png, max file size 50kb)"
+msgstr ""
+"Upload uw afbeelding (jpg, gif, png, maximale bestandsgrootte van 50kb)"
+
+#: slideoptions.php:1069
+msgid "Open button CSS"
+msgstr "Knop openen CSS"
+
+#: slideoptions.php:1082
+msgid "Use a Close button?"
+msgstr "Gebruik een knop sluiten?"
+
+#: slideoptions.php:1089
+msgid "Close Button"
+msgstr "Sluit knop"
+
+#: slideoptions.php:1090
+msgid "Use our generic close button"
+msgstr "Onze generieke knop Sluiten gebruikt"
+
+#: slideoptions.php:1092
+msgid "Select 1 close image"
+msgstr "Selecteer 1 nauwe afbeelding"
+
+#: slideoptions.php:1104
+msgid "Add extra code to the close button?"
+msgstr "Voeg extra code toe aan de knop sluiten?"
+
+#: slideoptions.php:1105
+msgid "(the code to execute when close button is clicked)"
+msgstr "(de code uit te voeren wanneer sluiten knop is geklikt)"
+
+#: slideoptions.php:1108
+msgid "Enter the code to add to close button"
+msgstr "Voer de code toe te voegen om te sluiten knop"
+
+#: slideoptions.php:1109
+msgid "Close button CSS"
+msgstr "Sluit knop CSS"
+
+#: slideoptions.php:1111
+msgid "Set Placement of close button"
+msgstr "Plaatsing van sluitknop instellen"
+
+#: slideoptions.php:1112
+msgid "Top-Left"
+msgstr "Linksboven"
+
+#: slideoptions.php:1114
+msgid "Top-Right"
+msgstr "Rechtsboven"
+
+#: slideoptions.php:1116
+msgid "Bottom-Left"
+msgstr "Linksonder"
+
+#: slideoptions.php:1118
+msgid "Bottom-Right"
+msgstr "Rechtsonder"
+
+#: slideoptions.php:1129
+msgid "Will your banner auto-open?"
+msgstr "Zal uw banner auto-open?"
+
+#: slideoptions.php:1132
+msgid "Auto-open the banner after"
+msgstr "Auto-open de banner na"
+
+#: slideoptions.php:1132
+msgid "seconds  - Set 0 for right away"
+msgstr "seconden - instellen 0 voor meteen"
+
+#: slideoptions.php:1135
+msgid "Will your banner auto-close?"
+msgstr "Zal uw banner auto-sluiten?"
+
+#: slideoptions.php:1142
+msgid "Auto-close the banner after"
+msgstr "Auto-sluiten de banner na"
+
+#: slideoptions.php:1142
+msgid "seconds  - Default is set to 10"
+msgstr "seconden - standaard is ingesteld op 10"
+
+#: slideoptions.php:1151
+msgid "Show the banner on?"
+msgstr "Toon de banner op?"
+
+#: slideoptions.php:1151
+msgid "All Pages"
+msgstr "﻿Alle pagina's"
+
+#: slideoptions.php:1151
+msgid "HomePage Only"
+msgstr "HomePage alleen"
+
+#: slideoptions.php:1151
+msgid "Specific Pages Only"
+msgstr "Bepaalde pagina's alleen"
+
+#: slideoptions.php:1154
+msgid "Page Titles"
+msgstr "Pagina titels"
+
+#: slideoptions.php:1154
+msgid ""
+"Titles of the page separated by commas on which to show the banner.(Case "
+"Sensitive)"
+msgstr ""
+"Titels van de pagina gescheiden door komma's waarop te tonen van de banner. "
+"(Hoofdlettergevoelig)"
+
+#: slideoptions.php:1155
+msgid "Screen size to display on"
+msgstr "De grootte van het scherm weer te geven op"
+
+#: slideoptions.php:1155
+msgid "All Sizes"
+msgstr "Alles"
+
+#: slideoptions.php:1155
+msgid "Desktop Only"
+msgstr "alleen de desktop"
+
+#: slideoptions.php:1155
+msgid "Tablet Only"
+msgstr "Tablet PC alleen"
+
+#: slideoptions.php:1155
+msgid "Mobile Only"
+msgstr "alleen op mobiel"
+
+#: slideoptions.php:1158
+msgid "Screen Width"
+msgstr "Volledige schermbreedte"
+
+#: slideoptions.php:1339
+msgid "Preview Banner"
+msgstr "Voorbeeld Banner"
+
+#: slideoptions.php:1339
+msgid "Save Banner"
+msgstr "Banner Opslaan"
+
+#: slidebanner.php:4
+msgid "Slide Banners (Free Version)"
+msgstr "Dia Banners (gratis versie)"
+
+#: slidebanner.php:6
+msgid "Create professional slide banners for any page on your Wordpress site."
+msgstr "Maak professionele dia banners voor elke pagina op uw Wordpress site."
+
+#~ msgid "Weekly Stats"
+#~ msgstr "wekelijkse statistieken"
+
+#~ msgid "Monthly Stats"
+#~ msgstr "Maandelijkse statistieken"
+
+#~ msgid "Month"
+#~ msgstr "Maand"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Week"
+#~ msgstr "Week"
+
+#~ msgid "Clicks"
+#~ msgstr "Kliks"
+
+#~ msgid "Impressions"
+#~ msgstr "Impressies"
+
+#~ msgid "Opens"
+#~ msgstr "Opent"
+
+#~ msgid "Click Through Rate"
+#~ msgstr "Klik door tarief"
+
+#~ msgid "Monthly"
+#~ msgstr "Maandelijks"
+
+#~ msgid "Daily"
+#~ msgstr "Dagelijks"
+
+#~ msgid "Weekly"
+#~ msgstr "Wekelijks"
+
+#~ msgid "Stats History"
+#~ msgstr "Stats-geschiedenis"
+
+#~ msgid "No history found"
+#~ msgstr "Geen geschiedenis gevonden"
+
+#~ msgid "My Slide Banners Monthly Stats"
+#~ msgstr "Mijn dia Banners maandelijkse statistieken"
+
+#~ msgid "Imp. this month"
+#~ msgstr "Imp. deze maand"
+
+#~ msgid "Opens this month"
+#~ msgstr "Opent deze maand"
+
+#~ msgid "Clicks this month"
+#~ msgstr "Kliks deze maand"
+
+#~ msgid "History"
+#~ msgstr "geschiedenis"
+
+#~ msgid "HISTORY"
+#~ msgstr "GESCHIEDENIS"
+
+#~ msgid "My Slide Banners Weekly Stats"
+#~ msgstr "Mijn Dia Banners wekelijkse statistieken"
+
+#~ msgid "Imp. this week"
+#~ msgstr "Imp. deze week"
+
+#~ msgid "Opens this week"
+#~ msgstr "Opent deze week"
+
+#~ msgid "Clicks this week"
+#~ msgstr "Kliks deze week"
+
+#~ msgid "Bottom"
+#~ msgstr "Onder"
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgid "Top, Right, Bottom, Left,"
+#~ msgstr "Boven, rechts, onder, links,"
+
+#~ msgid "Push Down Banners"
+#~ msgstr "neerduwen Banners"
+
+#~ msgid "Add New Pushdown Banner"
+#~ msgstr "Toevoegen van nieuwe neerduwen Banner"
+
+#~ msgid "No history found."
+#~ msgstr "Geen geschiedenis gevonden."
+
+#~ msgid "Melodic Media Push Down Banner"
+#~ msgstr "Melodische Media neerduwen Banner"
+
+#~ msgid "My Push Down Banners Daily Stats"
+#~ msgstr "Mijn dagelijkse Stats van neerduwen Banners"
+
+#~ msgid "Push Down Banner"
+#~ msgstr "neerduwen Banner"
+
+#~ msgid "You have currently no push down banners."
+#~ msgstr "U hebt momenteel geen neerduwen Banners"
+
+#~ msgid "My Push Down Banners Weekly Stats"
+#~ msgstr "Mijn neerduwen Banners wekelijkse statistieken"
+
+#~ msgid "My Push Down Banners"
+#~ msgstr "Mijn neerduwen Banners"
+
+#~ msgid "Please make sure first banner, main banner images are uploaded"
+#~ msgstr ""
+#~ "Controleer zeker eerste banner, belangrijkste banner beelden zijn geupload"
+
+#~ msgid ""
+#~ "Please make sure first banner, main banner and close button images are "
+#~ "uploaded"
+#~ msgstr ""
+#~ "Zorg ervoor dat eerste banner, belangrijkste banner en sluitknop "
+#~ "afbeeldingen zijn geüpload"
+
+#~ msgid "Please make sure close button and main banner images are uploaded"
+#~ msgstr ""
+#~ "Zorg ervoor dat knop sluiten en belangrijkste banner afbeeldingen zijn "
+#~ "geüpload"
+
+#~ msgid ""
+#~ "Please make sure first flash banner, main flash banner , first backup and "
+#~ "main backup images are uploaded"
+#~ msgstr ""
+#~ "Zorg ervoor dat eerste flash banner, de belangrijkste flash banner, de "
+#~ "eerste back-up en de belangrijkste back-upkopieën die zijn geüpload"
+
+#~ msgid ""
+#~ "Please make sure main flash banner and main backup images are uploaded"
+#~ msgstr ""
+#~ "Zorg ervoor dat de belangrijkste flash banner en belangrijkste back-"
+#~ "upkopieën die zijn geüpload"
+
+#~ msgid "Please make sure main flash banner file is uploaded"
+#~ msgstr "Zorg ervoor dat de belangrijkste flash banner bestand is geüpload"
+
+#~ msgid "Edit Push Down Banner"
+#~ msgstr "neerduwen Banner bewerken"
+
+#~ msgid "New Push Down Banner"
+#~ msgstr "Nieuwe neerduwen Banner"
+
+#~ msgid "Type of banner:"
+#~ msgstr "Soort banner:"
+
+#~ msgid ""
+#~ "There are 4 different kinds of HTML Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "Er zijn 4 verschillende soorten HTML neerduwen Banners, selecteer de "
+#~ "stijl die u willen zult tot stand brengen"
+
+#~ msgid "Option 1"
+#~ msgstr "Optie 1"
+
+#~ msgid "2 html banners (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr ""
+#~ "2 HTML-banners (Openen Banner &amp; Belangrijkste Banner) + knop sluiten"
+
+#~ msgid "Option 2"
+#~ msgstr "Optie 2"
+
+#~ msgid "2 html banners (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr ""
+#~ "2 HTML-banners (Openen Banner &amp; Belangrijkste Banner) + Auto-sluiten"
+
+#~ msgid "Option 3"
+#~ msgstr "Optie 3"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 html banner (Belangrijkste Banner) + Auto-opent Close Button"
+
+#~ msgid "Option 4"
+#~ msgstr "Optie 4"
+
+#~ msgid "1 html banner (Main Banner ) + Auto-Open &amp; Close"
+#~ msgstr "1 html banner (Belangrijkste Banner) + Auto Open &amp; Close"
+
+#~ msgid "First/Open HTML Banner"
+#~ msgstr "Eerste/Open HTML Banner"
+
+#~ msgid ""
+#~ "In your html code include this code in onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "In uw HTML-code bevatten deze code in de gebeurtenis onclick of href te "
+#~ "openen van de belangrijkste html banner"
+
+#~ msgid "OPEN BUTTON CODE"
+#~ msgstr "CODE VAN DE KNOP OPENEN"
+
+#~ msgid "CLICK TO OPEN"
+#~ msgstr "KLIK OM TE OPENEN"
+
+#~ msgid "OR"
+#~ msgstr "OF"
+
+#~ msgid "ROLLOVER TO OPEN"
+#~ msgstr "ROLLOVER TE OPENEN"
+
+#~ msgid "Enter HTML Code for your First Banner"
+#~ msgstr "HTML-Code voor uw eerste Banner invoeren"
+
+#~ msgid "Enter the width of first html banner"
+#~ msgstr "Geef de breedte van de eerste html banner"
+
+#~ msgid "Enter the heigth of first html banner"
+#~ msgstr "Voer de hoogte van eerste html banner"
+
+#~ msgid "When the HTML banner opens the first banner will disappear?"
+#~ msgstr "Wanneer de HTML banner opent de eerste banner zal verdwijnen?"
+
+#~ msgid ""
+#~ "In your html code add toggle(); function to  onclick event or href\n"
+#~ "  to open main html banner"
+#~ msgstr ""
+#~ "In uw HTML-code toevoegen toggle(); functie aan de gebeurtenis onclick of "
+#~ "href te openen van de belangrijkste html banner"
+
+#~ msgid "Main HTML Banner"
+#~ msgstr "Belangrijkste HTML Banner"
+
+#~ msgid "Do you want to add a Close Button?"
+#~ msgstr "Wilt u een knop sluiten toevoegen?"
+
+#~ msgid ""
+#~ "In your html code this code to  onclick event or href\n"
+#~ "  to close html banner"
+#~ msgstr ""
+#~ "In je html code deze code naar de gebeurtenis onclick of href te sluiten "
+#~ "html banner"
+
+#~ msgid "CLOSE BUTTON CODE"
+#~ msgstr "CODE VAN DE KNOP SLUITEN"
+
+#~ msgid "CLICK TO CLOSE"
+#~ msgstr "KLIK OM TE SLUITEN"
+
+#~ msgid "ROLLOVER TO CLOSE"
+#~ msgstr "ROLLOVER TE SLUITEN"
+
+#~ msgid "ROLLOFF TO CLOSE"
+#~ msgstr "AFWENTELEN TE SLUITEN"
+
+#~ msgid ""
+#~ "If you are using option first html banner disapper when main banner opens "
+#~ "then add toggle(0); to onlclick or href to close html banner"
+#~ msgstr ""
+#~ "Als u optie eerste html banner disapper gebruikt als belangrijkste banner "
+#~ "opent vervolgens toevoegen toggle(0); onlclick of href te sluiten html "
+#~ "banner"
+
+#~ msgid "Close Banner"
+#~ msgstr "Sluiten van de Banner"
+
+#~ msgid "Change Image (jpg, gif, png, max file size 50kb)"
+#~ msgstr ""
+#~ "Verandering afbeelding (jpg, gif, png, maximale bestandsgrootte van 50kb)"
+
+#~ msgid "Will you have an open button?"
+#~ msgstr "Moet u een knop openen?"
+
+#~ msgid ""
+#~ "Create your small first banner. Add a button that says Click here to "
+#~ "expand.\n"
+#~ "  On that button add this Actionscript"
+#~ msgstr ""
+#~ "Uw kleine eerste banner maken Het toevoegen van een knop met de tekst "
+#~ "Klik hier om uit te breiden.\n"
+#~ "  Op die knop deze ActionScript-code toevoegt"
+
+#~ msgid "To expand banner on rollover add this Actionscript"
+#~ msgstr "Uit te breiden banner op rollover deze ActionScript-code toevoegt"
+
+#~ msgid "Change First/Open banner flash file(swf)"
+#~ msgstr "Eerste/Open banner flash file(swf) wijzigen"
+
+#~ msgid "Upload your First/Open banner flash file(swf)"
+#~ msgstr "Upload uw eerste/open banner flash file(swf)"
+
+#~ msgid "When the Main Flash banner opens the first banner will disappear?"
+#~ msgstr ""
+#~ "Wanneer de belangrijkste Flash banner opent de eerste banner zal "
+#~ "verdwijnen?"
+
+#~ msgid "In your flash code add toggle(); function to   Actionscript"
+#~ msgstr "In uw flash-code toevoegen toggle(); functie voor Actionscript"
+
+#~ msgid ""
+#~ "And if you have your own flash close button \n"
+#~ " On that button add this Actionscript"
+#~ msgstr ""
+#~ "En hebt u uw eigen flash sluitknop op die knop deze ActionScript-code "
+#~ "toevoegt"
+
+#~ msgid "Upload your main banner flash file(swf)"
+#~ msgstr "Upload uw belangrijkste banner flash file(swf)"
+
+#~ msgid "Set the height of your main banner in the first/opening state"
+#~ msgstr ""
+#~ "Stel de hoogte van uw belangrijkste banner in de eerste/opening staat"
+
+#~ msgid "Will you have a regular close button under your flash banner?"
+#~ msgstr "Moet u een regelmatige sluitknop onder uw flash banner?"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 50kb)"
+#~ msgstr ""
+#~ "Wijzigen van de eerste/Open banner backup-kopie spiegelbeeld (jpg, gif, "
+#~ "png, maximale bestandsgrootte van 50kb)"
+
+#~ msgid ""
+#~ "Upload your First/Open banner backup image (jpg, gif, png, max file size "
+#~ "50kb)"
+#~ msgstr ""
+#~ "Upload uw eerste/Open banner backup-kopie spiegelbeeld (jpg, gif, png, "
+#~ "maximale bestandsgrootte van 50kb)"
+
+#~ msgid "Change Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Change Main banner backup-kopie spiegelbeeld (jpg, gif, png, max "
+#~ "bestandsgrootte 250kb)"
+
+#~ msgid ""
+#~ "Upload your Main banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Upload uw hoofd banner back-afbeeldingen (jpg, gif, png, max "
+#~ "bestandsgrootte 250kb)"
+
+#~ msgid ""
+#~ "There are 4 different kinds of image Push Down Banners, select the style "
+#~ "that you'll like to create"
+#~ msgstr ""
+#~ "Er zijn 4 verschillende soorten afbeelding neerduwen Banners, selecteer "
+#~ "de stijl die u willen zult tot stand brengen"
+
+#~ msgid "2 Images (Open Banner &amp; Main Banner ) + Close button"
+#~ msgstr "2 beelden(Openen Banner &amp; Belangrijkste Banner) + knop sluiten"
+
+#~ msgid "2 Images (Open Banner  &amp; Main Banner ) + Auto-Close"
+#~ msgstr "2 beelden (Open Banner &amp; belangrijkste Banner) + Auto-sluiten"
+
+#~ msgid "1 Image (Main Banner ) + Auto-Opens + Close Button"
+#~ msgstr "1 beeld (Belangrijkste Banner) + Auto-opent Close Button"
+
+#~ msgid "1 Image (Main Banner ) + Auto-Open &amp; Close"
+#~ msgstr "1 beeld (Belangrijkste Banner) + Auto Open &amp; Close"
+
+#~ msgid "First/Open Banner"
+#~ msgstr "Eerste/Open Banner"
+
+#~ msgid "When you click this image, will this image dissappear?"
+#~ msgstr ""
+#~ "Wanneer u op deze afbeelding klikt, zal het verdwijnen van deze "
+#~ "afbeelding?"
+
+#~ msgid "When you click this image, it will open the Push Down Banner?"
+#~ msgstr ""
+#~ "Wanneer u op deze afbeelding klikt, zal het openen de neerduwen Banner?"
+
+#~ msgid "If no, Please set the URL you want it to link to http://"
+#~ msgstr "Zo nee, stel de URL die u wilt koppelen aan http://"
+
+#~ msgid "Main Banner"
+#~ msgstr "Belangrijkste Banner"
+
+#~ msgid "Make the banner Responsive?"
+#~ msgstr "Maak de banner Responsive?"
+
+#~ msgid "Set a background Image"
+#~ msgstr "Een achtergrond afbeelding instellen"
+
+#~ msgid "Set a background Color"
+#~ msgstr "Stel een achtergrond kleur"
+
+#~ msgid "Background Color"
+#~ msgstr "Achtergrondkleur"
+
+#~ msgid "Set the Speed/Time which the banner will open or close"
+#~ msgstr "Stel de snelheid/tijd die de banner zal openen of sluiten"
+
+#~ msgid "Speed"
+#~ msgstr "Snelheid"
+
+#~ msgid "Time"
+#~ msgstr "Tijd"
+
+#~ msgid ""
+#~ "Titles of the page separated by commas on which to show the banner(Case "
+#~ "Sensitive).Type 'Home' as title to show on homepage"
+#~ msgstr ""
+#~ "Titels van de pagina gescheiden door komma's waarop te tonen van de "
+#~ "banner (Case Sensitive). Typ 'Home' als titel te tonen op Startpagina"
+
+#~ msgid "Note Only one Push down Banner can be shown on a single page."
+#~ msgstr ""
+#~ "Opmerking alleen een neerduwen Banner kan worden aangetoond op één pagina."
+
+#~ msgid "Placement: First Item on Page"
+#~ msgstr "Plaatsing: Eerste Item op pagina"
+
+#~ msgid "Placement: Div ID"
+#~ msgstr "Plaatsing: Div ID"
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which pushdown banner should "
+#~ "appear "
+#~ msgstr ""
+#~ "Id van div of een andere HTML-element in welke neerduwen banner moet "
+#~ "worden weergegeven"
+
+#~ msgid ""
+#~ "Note If placing into a Post, manually add a new DIV layer in your post "
+#~ "like this"
+#~ msgstr ""
+#~ "Opmerking Als het plaatsen in een Post, handmatig toevoegen een nieuwe "
+#~ "laag van de DIV in uw bericht als dit"
+
+#~ msgid "Then add \"pushdownpost\" in the box above"
+#~ msgstr "Voeg vervolgens \"pushdownpost\" in het bovenstaande vak"
+
+#~ msgid "Placement of Push down Banner?"
+#~ msgstr "Plaatsing van neerduwen Banner?"
+
+#~ msgid "Start of Div"
+#~ msgstr "Begin van Div"
+
+#~ msgid "End of Div"
+#~ msgstr "Einde van Div"
+
+#~ msgid "Add CSS above your Push Down Banner"
+#~ msgstr "Toevoegen van CSS boven uw neerduwen Banner"
+
+#~ msgid "Add CSS below your Push Down Banner"
+#~ msgstr "Toevoegen van CSS onder uw neerduwen Banner"
+
+#~ msgid ""
+#~ "Create professional push down banners for any page on your Wordpress site."
+#~ msgstr ""
+#~ "Maak professionele neerduwen banners voor elke pagina op uw Wordpress "
+#~ "site."
+
+#~ msgid "Expandable Banners"
+#~ msgstr "Uitbreidbaar Banners"
+
+#~ msgid "Add New Expandable Banner"
+#~ msgstr "Toevoegen van nieuwe uitbreidbare Banner"
+
+#~ msgid "Click Through Rate (%)"
+#~ msgstr "Klik door tarief (%)"
+
+#~ msgid "Melodic Media Expandable Banner"
+#~ msgstr "Melodische Media uitbreidbaar Banner"
+
+#~ msgid "My Expandable Banners Monthly Stats"
+#~ msgstr "Mijn maandelijkse Stats van uitbreidbare Banners"
+
+#~ msgid "Expandable Banner"
+#~ msgstr "Uitbreidbaar Banner"
+
+#~ msgid "You have currently no expandable banners"
+#~ msgstr "U hebt momenteel geen uitbreidbaar banners"
+
+#~ msgid "My Expandable Banners Daily Stats"
+#~ msgstr "Mijn dagelijkse Stats van uitbreidbare Banners"
+
+#~ msgid "You have currently no expandable banners."
+#~ msgstr "U hebt momenteel geen uitbreidbaar banners."
+
+#~ msgid "My Expandable Banners Weekly Stats"
+#~ msgstr "Mijn uitbreidbaar banners wekelijkse statistieken"
+
+#~ msgid "My Expandable Banners"
+#~ msgstr "Mijn uitbreidbaar Banners"
+
+#~ msgid "Edit Expandable Banner"
+#~ msgstr "Uitbreidbaar Banner bewerken"
+
+#~ msgid "New Expandable Banner"
+#~ msgstr "Nieuwe uitbreidbare Banner"
+
+#~ msgid "First/Open Banner:"
+#~ msgstr "Eerste/Open Banner:"
+
+#~ msgid "Expand On"
+#~ msgstr "Vouw op"
+
+#~ msgid "Rollover"
+#~ msgstr "Gevaar door kantelen"
+
+#~ msgid "Click"
+#~ msgstr "Klik"
+
+#~ msgid "2nd Banner:"
+#~ msgstr "2de banner:"
+
+#~ msgid "First/Open Flash Banner:"
+#~ msgstr "Eerste/Open Flash Banner:"
+
+#~ msgid "Upload your first/open banner flash file(swf)"
+#~ msgstr "Upload uw eerste/open banner flash file(swf)"
+
+#~ msgid ""
+#~ "Add this Actionscript on link or button to open/expand banner on click"
+#~ msgstr ""
+#~ "Voeg deze Actionscript op de link of button om open/banner klikt u op"
+
+#~ msgid "To open banner on rollover add this Actionscript"
+#~ msgstr "Te openen banner op rollover deze ActionScript-code toevoegt"
+
+#~ msgid "2nd Flash Banner:"
+#~ msgstr "2de flash Banner:"
+
+#~ msgid ""
+#~ "where 'enter_banner_name' is the name of your expandable banner.Make sure "
+#~ "that you replace the spaces in name with '_'."
+#~ msgstr ""
+#~ "waar 'enter_banner_name' is de naam van uw uitbreidbaar banner. Zorg "
+#~ "ervoor dat u de spaties in de naam vervangen door '_'."
+
+#~ msgid "Change 2nd banner flash file(swf)"
+#~ msgstr "2de banner flash file(swf) wijzigen"
+
+#~ msgid "Upload your 2nd banner flash file(swf)"
+#~ msgstr "Upload uw 2de flash banner-file(swf)"
+
+#~ msgid ""
+#~ "Change First/Open banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Wijzigen van de eerste/Open banner backup-kopie spiegelbeeld (jpg, gif, "
+#~ "png, max bestandsgrootte 250kb)"
+
+#~ msgid "Change 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Wijzigen van 2e banner back-afbeelding (jpg, gif, png, max "
+#~ "bestandsgrootte 250kb)"
+
+#~ msgid ""
+#~ "Upload your 2nd banner backup image (jpg, gif, png, max file size 250kb)"
+#~ msgstr ""
+#~ "Upload uw 2e banner back-afbeelding (jpg, gif, png, max bestandsgrootte "
+#~ "250kb)"
+
+#~ msgid "First/Open HTML Banner:"
+#~ msgstr "Eerste/Open HTML Banner:"
+
+#~ msgid "Main HTML Banner:"
+#~ msgstr "Belangrijkste HTML Banner:"
+
+#~ msgid "Does your Main HTML Code contains Javascript?"
+#~ msgstr "Bevat uw belangrijkste HTML-Code Javascript?"
+
+#~ msgid "Close Button:"
+#~ msgstr "Sluit knop:"
+
+#~ msgid "Select 1 close image:"
+#~ msgstr "Selecteer 1 nauwe afbeelding:"
+
+#~ msgid "Set Placement of close button:"
+#~ msgstr "Plaatsing van sluitknop instellen:"
+
+#~ msgid "Do you want close button on outside?"
+#~ msgstr "Wilt u de knop sluiten buiten?"
+
+#~ msgid "Enter the code to add to close button:"
+#~ msgstr "Voer de code toe te voegen om te sluiten knop:"
+
+#~ msgid "Expand Direction:"
+#~ msgstr "Richting uit te breiden:"
+
+#~ msgid "Left-Top"
+#~ msgstr "Links Boven"
+
+#~ msgid "Center-Top"
+#~ msgstr "Gecentreerd Boven"
+
+#~ msgid "Right-Top"
+#~ msgstr "Rechtsboven"
+
+#~ msgid "Left-Center"
+#~ msgstr "Links Midden"
+
+#~ msgid "Center-Center"
+#~ msgstr "Midden - Midden"
+
+#~ msgid "Right-Center"
+#~ msgstr "Rechts Midden"
+
+#~ msgid "Left-Bottom"
+#~ msgstr "Links Onder"
+
+#~ msgid "Center-Bottom"
+#~ msgstr "Gecentreerd Onder"
+
+#~ msgid "Right-Bottom"
+#~ msgstr "Rechts Onder"
+
+#~ msgid "Animate?"
+#~ msgstr "Animatie?"
+
+#~ msgid "YES"
+#~ msgstr "JA"
+
+#~ msgid "NO"
+#~ msgstr "NEE"
+
+#~ msgid "Animation Speed"
+#~ msgstr "Animatie snelheid"
+
+#~ msgid "Will this be a Corner Page Peel Banner?"
+#~ msgstr "Zal dit een hoek paginavaandel Peel?"
+
+#~ msgid "seconds  - Set 0 for right away."
+#~ msgstr "seconden - instellen 0 voor meteen."
+
+#~ msgid ""
+#~ "Id of div or any other html element  in which expandable banner should "
+#~ "appear"
+#~ msgstr ""
+#~ "Id van div of een andere HTML-element op welke uitbreidbaar "
+#~ "informatieregel moet worden weergegeven"
+
+#~ msgid "Then add \"expandablepost\" in the box above"
+#~ msgstr "Voeg vervolgens \"expandablepost\" in het bovenstaande vak"
+
+#~ msgid "Placement of Expandable Banner?"
+#~ msgstr "Plaatsing van uitbreidbare Banner?"
+
+#~ msgid "Add CSS above your Expandable Banner"
+#~ msgstr "Toevoegen van CSS boven uw uitbreidbaar Banner"
+
+#~ msgid "Add CSS below your Expandable Banner"
+#~ msgstr "Toevoegen van CSS onder uw uitbreidbaar Banner"
+
+#~ msgid "Screen size to display on:"
+#~ msgstr "De grootte van het scherm weer te geven op:"
+
+#~ msgid ""
+#~ "Create professional expandable banners for any page on your Wordpress "
+#~ "site."
+#~ msgstr ""
+#~ "Maak professionele uitbreidbare banners voor elke pagina op uw Wordpress "
+#~ "site."
